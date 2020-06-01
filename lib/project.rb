@@ -10,5 +10,5 @@ class Project
     @backers = backers
     backed_projects = backers
   end
-  
+
 end
