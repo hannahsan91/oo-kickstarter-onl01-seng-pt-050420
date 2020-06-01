@@ -6,4 +6,3 @@ class Backer
     @name = name
     name = name
   end
-
