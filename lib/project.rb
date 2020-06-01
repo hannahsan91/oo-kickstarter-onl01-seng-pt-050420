@@ -8,7 +8,7 @@ class Project
 
   def initialize(backers)
     @backers = backers
+    backed_projects = backers
   end
-
-
+  
 end
